@@ -1,4 +1,4 @@
-# sonarQube
+# sonarCloud1
 
 <h1 align="center">Hi 👋, I'm AniketSanas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
