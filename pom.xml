@@ -12,17 +12,8 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    
-<<<<<<< HEAD
-     <sonar.organization>abcd2</sonar.organization>
-=======
-    <sonar.organization>abcd2</sonar.organization>
->>>>>>> ff03d0bbb991c60fe7318dcdbe9983920a377a5a
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
-  
- 
-   
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -30,8 +21,6 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
-    
- 
     
   
 	<dependency>
